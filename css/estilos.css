@@ -1,0 +1,107 @@
+nav div ul li {
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+}
+
+article {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+section div.por {
+    margin-bottom: 5px;
+}
+
+section article h3 {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 5px solid royalblue;
+}
+
+section div.row {
+    background-color: #292b2c;
+    margin: 0px;
+    margin-bottom: 10px;
+    width: 90%;
+}
+
+section div.texto {
+    text-align: left;
+    padding: 5px;
+    padding: 5%px
+}
+
+div.scr {
+    height: 500px;
+    overflow-y: scroll;
+    padding-right: 0%;
+    margin: 0%;
+}
+
+
+/*Geekstore*/
+
+.wrapper {
+    width: 100%;
+}
+
+.wrapper .carrusel,
+.wrapper .carrusel1,
+.wrapper .carrusel2,
+.wrapper .carrusel3 {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 30px;
+}
+
+.carrusel .card,
+.carrusel1 .card,
+.carrusel2 .card,
+.carrusel3 .card {
+    background: #292b2ced;
+    color: #fff;
+    margin: 25px 0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.boton1 {
+    margin-left: 2%;
+    margin-right: 0%;
+}
+
+.boton,
+.boton1 {
+    border: 5px solid #fff;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+
+/*formulario*/
+
+section div.formulario {
+    margin-top: 10px;
+    padding: 0px;
+    margin-left: 5%;
+    padding: 30px;
+}
+
+.btn-outline-primary {
+    margin-top: 10%;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
+
+.btn-outline-success {
+    margin-top: 10px;
+    border-radius: 50px;
+}
+
+small {
+    margin-top: 5px;
+}
